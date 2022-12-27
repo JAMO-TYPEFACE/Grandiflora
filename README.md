@@ -1,6 +1,6 @@
 # Grandiflora Project
 
-![Grandiflora Image1](Documentation/Grandiflora_Image1.jpg)
+![Grandiflora Image1](Documentation/images/github_image.jpg)
 
 
 
